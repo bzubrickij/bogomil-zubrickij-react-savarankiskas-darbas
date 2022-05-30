@@ -11,7 +11,6 @@ import { selectLoggedIn } from '../../store/features/authentication/auth-selecto
 const NavbarLayoutGlobal: React.FC = () => {
   const loggedIn = useRootSelector(selectLoggedIn);
 
-
   return (
     <AppBar position="static" sx={{ mb: 6, bgcolor: '#764AF1' }}>
       <Container>
