@@ -1,4 +1,4 @@
-import { Product } from "../../../types/global-types";
+import { Product } from '../../../types/global-types';
 
 export type CartProduct = {
   id?: string;
@@ -10,7 +10,6 @@ export type CartProduct = {
 
 export type CartState = {
   products: Product[],
-
 };
 
 export enum CartActionType {
@@ -39,7 +38,6 @@ export type ShopAddProductToCardAction = {
     product: Product,
   }
 };
-
 
 export type CartUpdateProductAction = {
   type: CartActionType.CART_UPDATE_PRODUCT,
