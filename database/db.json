@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Kitten",
+      "price": "5.99",
+      "discount": "50%"
+    },
+    {
+      "id": "2",
+      "title": "Puppy",
+      "price": "9.99",
+      "discount": "20%"
+    },
+    {
+      "id": "3",
+      "title": "Child",
+      "price": "49.99",
+      "discount": "10%"
+    },
+    {
+      "id": "4",
+      "title": "Neighbour ",
+      "price": "99.99",
+      "discount": "5%"
+    }
+  ],
+  "users": [
+    {
+      "id": "4",
+      "name": "Petriukas",
+      "surname": "Uzknisovicius",
+      "email": "user1@gmail.com",
+      "password": "Onuskes123&"
+    },
+    {
+      "id": "5",
+      "name": "Marozas",
+      "surname": "Dryzius",
+      "email": "user2@gmail.com",
+      "password": "Onuskes123&"
+    },
+    {
+      "id": "6",
+      "name": "Zbignievas",
+      "surname": "Bukovicius",
+      "email": "user3@gmail.com",
+      "password": "Onuskes123&"
+    },
+    {
+      "email": "b.zubrycki@gmail.com",
+      "password": "Aaaaaaaaa1!",
+      "id": "FuHA3fG"
+    }
+  ]
+}

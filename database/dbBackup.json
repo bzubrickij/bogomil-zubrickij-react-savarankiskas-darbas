@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Basic",
+      "price": "5.99",
+      "period": "2 year",
+      "discount": "50%"
+    },
+    {
+      "id": "2",
+      "title": "Sleep Safe",
+      "price": "9.99",
+      "period": "1 year",
+      "discount": "20%"
+    },
+    {
+      "id": "3",
+      "title": "Enterprice",
+      "price": "99.99",
+      "period": "1 year",
+      "discount": "5%"
+    }
+  ]
+}
